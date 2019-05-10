@@ -1,0 +1,1 @@
+include ':app', ':mystringlibrary', ':mystringlibrary-release'
